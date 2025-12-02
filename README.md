@@ -27,4 +27,4 @@ applications and contributing to open-source projects.
 - Email:belaquinn12@gmail.com
 
 ### 📊 GitHub Status 
-! 
+! https://-readme-stats.vercel.app/api?username=s257233-jpg 
